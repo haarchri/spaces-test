@@ -6,4 +6,4 @@ key:
       project: default
       repoUrl: https://github.com/upbound/spaces-reference-architecture.git
       version: HEAD
-      path: bootstrap
+      folder: "bootstrap/"
